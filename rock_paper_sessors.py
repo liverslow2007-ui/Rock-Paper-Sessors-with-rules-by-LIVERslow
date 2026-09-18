@@ -1,3 +1,6 @@
+import random
+
+
 def rock_paper_scissors():
     print("Rules:\n\n1. Rock defeats Scissors.\n2. Scissors defeats Paper.\n3. Paper defeats Rock.\n4. If both players choose the same option, the round ends in a draw.\n5. Choose finish when you want to stop playing.\n\nGood luck!!\n")
 
